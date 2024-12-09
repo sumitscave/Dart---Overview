@@ -1,6 +1,7 @@
 void main() {
-  // This is the entry point of Dart as like other programming Language
+  // The main function is the entry point of a Dart program.
+  // Execution starts here, similar to other programming languages.
   print("Hello World!!");
 }
 
-// If there is no entry point the program won't start
+// Without the main function, the program won't run as it has no defined starting point.
